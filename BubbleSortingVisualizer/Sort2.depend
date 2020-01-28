@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1580175248 source:c:\users\ishaan\downloads\sort2\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	"stdlib.h"
+	<string>
+	"windows.h"
+
+1580175353 source:c:\users\ishaan\documents\codeblocks\sortingvisualizer\bubble_sort.cpp
+	"Bubble_Sort.h"
+
+1580175352 c:\users\ishaan\documents\codeblocks\sortingvisualizer\bubble_sort.h
+
+1580221434 source:c:\users\ishaan\documents\codeblocks\sortingvisualizer\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	"stdlib.h"
+	<string>
+
