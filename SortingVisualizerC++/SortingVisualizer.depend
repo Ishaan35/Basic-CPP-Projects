@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580436839 source:c:\users\ishaan\documents\github\basic-cpp-projects\bubblesortingvisualizer\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	"stdlib.h"
+	<string>
+	"windows.h"
+
