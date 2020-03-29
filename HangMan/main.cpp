@@ -3,6 +3,8 @@
 #include <vector>
 #include <ctime>
 #include <stdlib.h>
+
+
 using namespace std;
 
 void Intro();
@@ -160,6 +162,7 @@ void input()
     if (count == ChosenWord.size()) //If no letter is matched, count should be the length of the word, and if so, try again.
     {
         Chances--;
+        system("ClS");
         drawHangMan();
     }
 

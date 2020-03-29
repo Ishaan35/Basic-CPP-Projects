@@ -190,6 +190,8 @@ void Selection_Sort(vector <string> &sort_visual)
         string temp = sort_visual.at(i);
         sort_visual.at(i) = sort_visual.at(smallest_string_index);
         sort_visual.at(smallest_string_index) = temp;
+
+
         system("CLS");
         draw(sort_visual);
 
